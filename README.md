@@ -68,7 +68,7 @@ The following screenshots demonstrate the execution of SQL queries in PostgreSQL
 
 ### 1. Easy Level Queries
 
-![Easy SQL Results](Screenshots/Query_Results_1.png)
+![Easy SQL Results](PostgreSQL%20query%20result%20screenshots/1.png)
 
 ### 2. Moderate Level Queries
 
