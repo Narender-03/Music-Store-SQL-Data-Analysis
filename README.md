@@ -72,7 +72,7 @@ The following screenshots demonstrate the execution of SQL queries in PostgreSQL
 
 ### 2. Moderate Level Queries
 
-![Moderate SQL Results](Screenshots/Query_Results_2.png)
+![Moderate SQL Results](PostgreSQL%20query%20result%20screenshots/2.png)
 
 ### 3. Advanced Level Queries
 
