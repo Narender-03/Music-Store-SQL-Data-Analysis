@@ -36,7 +36,7 @@ The project uses a relational database consisting of the following tables:
 
 ### Database ER Diagram
 
-![Database ER diagram](MusicDatabaseSchema.png)
+![Database ER diagram](images/MusicDatabaseSchema.png)
 
 ## 📊 SQL Analysis
 
