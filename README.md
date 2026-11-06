@@ -76,7 +76,7 @@ The following screenshots demonstrate the execution of SQL queries in PostgreSQL
 
 ### 3. Advanced Level Queries
 
-![Advanced SQL Results](Screenshots/Query_Results_3.png)
+![Advanced SQL Results](PostgreSQL%20query%20result%20screenshots/3.png)
 
 
 ## 🛠️ Tools & Technologies
@@ -103,9 +103,9 @@ The following screenshots demonstrate the execution of SQL queries in PostgreSQL
 
 | Folder/File | Description |
 |---|---|
-| SQL question sheet | Contains SQL queries for all difficulty levels |
+| SQL | Contains SQL queries for all difficulty levels |
 | Dataset | Contains the original Excel dataset used for PostgreSQL analysis |
-| SQL | Contains the database schema and project questions |
+| SQL  question sheet , Database ER diagram | Contains the database schema and project questions |
 |  PostgreSQL query result screenshot | Contains PostgreSQL query execution results |
 
 ## 💡 Key Learning Outcomes
