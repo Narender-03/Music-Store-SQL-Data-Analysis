@@ -62,6 +62,23 @@ The project contains three levels of SQL questions.
 - Find the most popular music genre in each country.
 - Identify the highest-spending customer in each country, including ties.
 
+## 📸 SQL Query Execution Results
+
+The following screenshots demonstrate the execution of SQL queries in PostgreSQL and their corresponding results.
+
+### 1. Easy Level Queries
+
+![Easy SQL Results](Screenshots/Query_Results_1.png)
+
+### 2. Moderate Level Queries
+
+![Moderate SQL Results](Screenshots/Query_Results_2.png)
+
+### 3. Advanced Level Queries
+
+![Advanced SQL Results](Screenshots/Query_Results_3.png)
+
+
 ## 🛠️ Tools & Technologies
 
 - PostgreSQL
@@ -86,10 +103,10 @@ The project contains three levels of SQL questions.
 
 | Folder/File | Description |
 |---|---|
-| SQL | Contains SQL queries for all difficulty levels |
+| SQL question sheet | Contains SQL queries for all difficulty levels |
 | Dataset | Contains the original Excel dataset used for PostgreSQL analysis |
-| Documentation | Contains the database schema and project questions |
-| Screenshots | Contains PostgreSQL query execution results |
+| SQL | Contains the database schema and project questions |
+|  PostgreSQL query result screenshot | Contains PostgreSQL query execution results |
 
 ## 💡 Key Learning Outcomes
 
